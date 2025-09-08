@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/umernadim/umernadim/assets/123456789/developer-banner.gif" alt="Developer Banner" width="100%">
+</p>
+
 # 👋 Hey, I'm Umer Nadeem  
 🚀 Full Stack Web Developer | 💻 Tech Enthusiast | 🌍 Open Source Contributor  
 
@@ -60,4 +65,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=umernadim&icon=4&color=0)](https://visitcount.itsvg.in)  
+
 
