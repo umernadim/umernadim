@@ -1,9 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/umernadim/umernadim/assets/123456789/developer-banner.gif" alt="Developer Banner" width="100%">
-</p>
-
-# 👋 Hey, I'm Umer Nadeem  
+# 👋 Hey, I'm Muhammad Umer  
 🚀 Full Stack Web Developer | 💻 Tech Enthusiast | 🌍 Open Source Contributor  
 
 ---
