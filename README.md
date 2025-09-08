@@ -55,7 +55,8 @@
 ---
 
 ## 🐍 GitHub Snake  
-![Snake animation](https://github.com/umernadim/umernadim/blob/output/github-contribution-grid-snake.svg)  
+## 🐍 GitHub Snake  
+![Snake animation](https://raw.githubusercontent.com/umernadim/umernadim/output/github-contribution-grid-snake.svg)    
 
 ---
 
