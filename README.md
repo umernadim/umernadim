@@ -54,12 +54,6 @@
 
 ---
 
-## 🐍 GitHub Snake  
-## 🐍 GitHub Snake  
-![Snake animation](https://raw.githubusercontent.com/umernadim/umernadim/output/github-contribution-grid-snake.svg)    
-
----
-
 [![](https://visitcount.itsvg.in/api?id=umernadim&icon=4&color=0)](https://visitcount.itsvg.in)  
 
 
