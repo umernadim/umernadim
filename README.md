@@ -1,14 +1,10 @@
 # 👋 Hey, I'm Muhammad Umer  
 🚀 Full Stack Web Developer | 💻 Tech Enthusiast | 🌍 Open Source Contributor  
 
----
-
 ## 🌐 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_umer01) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-nadeem-ba4786341/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsumernadeem@gmail.com)  
-
----
 
 ## 💻 Tech Stack  
 
@@ -28,8 +24,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -40,20 +34,12 @@
 
 </div>
 
----
-
 ## 🚀 Featured Projects  
 - [🌐 My Portfolio Website](https://github.com/umernadim/portfolio)  
 - [💬 Chat Application](https://github.com/umernadim/chat-app)  
 - [⚡ Task Manager](https://github.com/umernadim/task-manager)  
 
----
-
 ## ✍️ Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
----
-
 [![](https://visitcount.itsvg.in/api?id=umernadim&icon=4&color=0)](https://visitcount.itsvg.in)  
-
-
